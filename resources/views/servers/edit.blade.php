@@ -39,7 +39,7 @@
                                 <option value="7" {{ ($server_data->server_type === 7) ? 'selected' : '' }}>
                                     NAT
                                 </option>
-                                <option value="7" {{ ($server_data->server_type === 8) ? 'selected' : '' }}>
+                                <option value="8" {{ ($server_data->server_type === 8) ? 'selected' : '' }}>
                                     COLO
                                 </option>
                             </select></div>
